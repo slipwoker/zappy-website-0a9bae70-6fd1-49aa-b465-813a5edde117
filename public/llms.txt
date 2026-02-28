@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מיס ספיר - מניקוריסטית מומלצת המתמחה בעיצובי ציפורניים בגווני ורוד מרהיבים. טיפולי יופי פרטיים ואישיים שישאירו אותך מרוצה ומטופחת.
+
+### שירותים
+https://example.com/services
+גלי את מגוון שירותי המניקור והפדיקור שלנו: עיצובים לחתונות, אירועים מיוחדים וטיפולים יומיומיים. מניקוריסטית מומלצת עם ניסיון עשיר במחירים נוחים.
+
+### תיק עבודות
+https://example.com/portfolio
+צפי בתיק העבודות המלא שלנו והתרשמי מעיצובי ציפורניים ייחודיים לחתונות ואירועים. כל עבודה מבוצעת בקפידה ובדיוק למראה מושלם שיחמיא לך.
+
+### צור קשר
+https://example.com/contact
+מוכנה לציפורניים מושלמות? צרי קשר עם מיס ספיר וקבעי תור לטיפול מניקור אישי ומקצועי. מניקוריסטית פרטית זמינה לאירועים ולטיפולים קבועים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
